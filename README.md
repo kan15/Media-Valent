@@ -1,5 +1,6 @@
 # Media-Valent
 Test task from Media Valent (copy site, GET)
+
 Mistakes which I fount in HTML:
   - there are five tag h1, but it should be just one on the page. Rude mistake. It will be a problem with CEO promotion because of this.
   - on the page can not be a similar id, but it is on this HTML page.
